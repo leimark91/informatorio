@@ -13,3 +13,4 @@ def info(*profes):
    print("Esta hablando: " + profes[2])
 
 info("Rami", "Cris", "Mica")
+
